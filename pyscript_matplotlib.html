@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <title>Matplotlib</title>
+    <meta charset="utf-8">
+
+    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+    <py-env>
+      - matplotlib
+    </py-env>
+    </head>
+    <body>
+      <div id="mpl"></div>
+      <py-script output="mpl">
+      import matplotlib.pyplot as plt
+
+      fig1, ax1 = plt.subplots()
+
+      fig1
+      </py-script>
+    </body>
+</html>
