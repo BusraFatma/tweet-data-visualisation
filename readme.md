@@ -2,7 +2,7 @@
 
 # DUYGU ANALİZİNİN YAPILMASI VE GÖRSELLEŞTİRİLMESİ 
 
-# #﻿ ÖZET
+## ÖZET
 
 Bir  konu  hakkında  Twitter  üzerinde  insanların  genel  kanısı  bilimsel  yaklaşımlarla araştırmak istenildiğinde, ilgili konunun hastag(#) ilgili Tweet`leri okumak ve araştırma yapan araştırmacının bireysel
 fikri  ile değerlendirmek gerekmektedir. Her bir Tweet paylaşımını  teker  teker  okuyup  değerlendirmek  bilimsel  bir  analiz  niteliğine  sahip olmayacaktır.  Kullanıcıların  duygularını  nicel  bir  bakış 
