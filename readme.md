@@ -1,12 +1,18 @@
-﻿ÖZET 
+#TWITTER ÜZERİNDEN ELDE EDİLEN VERİLER KULLANILARAK TWEET 
 
-TWITTER ÜZERİNDEN ELDE EDİLEN VERİLER KULLANILARAK TWEET 
+#DUYGU ANALİZİNİN YAPILMASI VE GÖRSELLEŞTİRİLMESİ 
 
-DUYGU ANALİZİNİN YAPILMASI VE GÖRSELLEŞTİRİLMESİ 
+##﻿ÖZET
 
-Bir  konu  hakkında  Twitter  üzerinde  insanların  genel  kanısı  bilimsel  yaklaşımlarla araştırmak istenildiğinde, ilgili konunun hastag(#) ilgili Tweet`leri okumak ve araştırma yapan araştırmacının bireysel  fikri  ile değerlendirmek gerekmektedir. Her bir Tweet paylaşımını  teker  teker  okuyup  değerlendirmek  bilimsel  bir  analiz  niteliğine  sahip olmayacaktır.  Kullanıcıların  duygularını  nicel  bir  bakış  ile  değerlendirilmesini zorlaştıracaktır. Elastic Search kullanarak Twitter Tweet analizi projesi, kullanıcıların yaptığı  yorumlar  bilgisayar  tarafından  analiz  edilip  konu  bazında  insanların  genel kanılarının  objektif  bir  şekilde  değerlendirilip  sınıflandırma  işlemlerini  standartlar çerçevesinde  değerlendirilmesini  amaçlar.  Sınıflandırılan  bu  veriler  üzerinde filtrelemeler yaparak eş zamanlı izlenebilen grafikler oluşturulmuştur. Bu sayede bu grafikler üzerinde duygu verilerinin yorumlanması sağlanmıştır. 
+Bir  konu  hakkında  Twitter  üzerinde  insanların  genel  kanısı  bilimsel  yaklaşımlarla araştırmak istenildiğinde, ilgili konunun hastag(#) ilgili Tweet`leri okumak ve araştırma yapan araştırmacının bireysel
+fikri  ile değerlendirmek gerekmektedir. Her bir Tweet paylaşımını  teker  teker  okuyup  değerlendirmek  bilimsel  bir  analiz  niteliğine  sahip olmayacaktır.  Kullanıcıların  duygularını  nicel  bir  bakış 
+ile  değerlendirilmesini zorlaştıracaktır. Elastic Search kullanarak Twitter Tweet analizi projesi, kullanıcıların yaptığı  yorumlar  bilgisayar  tarafından  analiz  edilip  konu  bazında  insanların  genel
+kanılarının  objektif  bir  şekilde  değerlendirilip  sınıflandırma  işlemlerini  standartlar çerçevesinde  değerlendirilmesini  amaçlar.  Sınıflandırılan  bu  veriler  üzerinde filtrelemeler yaparak eş zamanlı
+izlenebilen grafikler oluşturulmuştur. Bu sayede bu grafikler üzerinde duygu verilerinin yorumlanması sağlanmıştır. 
 
-Bilgisayar bilimleri, insan diline en yakın yeni nesil 5. Nesil programlama dillerinin gelişimi ile gelen yeni teknolojiler ile arama, veri kaydetme, görselleştirme işlemleri, dağıtık  sistemler  üzerinde  etkili  şekilde  çalıştırılabilir  duruma  gelmiştir.  Yeni teknolojiler  üzerinde  çalışan  projede,  insan  faktörünü  en  aza  indirilmiş,  yapılacak çalışmanın  analiz  edilmesini  ve  nicel  sonuçlar  elde  edilip  değerlendirilmesi kolaylaştırmıştır.  
+Bilgisayar bilimleri, insan diline en yakın yeni nesil 5. Nesil programlama dillerinin gelişimi ile gelen yeni teknolojiler ile arama, veri kaydetme, görselleştirme işlemleri, dağıtık  sistemler  üzerinde 
+etkili  şekilde  çalıştırılabilir  duruma  gelmiştir.  Yeni teknolojiler  üzerinde  çalışan  projede,  insan  faktörünü  en  aza  indirilmiş,  yapılacak çalışmanın  analiz  edilmesini  ve  nicel  sonuçlar  elde
+edilip  değerlendirilmesi kolaylaştırmıştır.  
 
 Tez özelinde Twitter üzerindeki hastag(topic)`lerden iki tanesi “Ukrayna Rusya savaşı ve Dolar Kuru” incelenmiştir ve Ukrayna Rusya savaşı incelenerek sonuç çıkarılmıştır.  
 
@@ -16,15 +22,15 @@ SİMGELER VE KISALTMALAR
 
 - hastag 
 
-API     Application Program Interface CRUD Create, Read, Update, Delete CURL Client URL 
+- API     Application Program Interface CRUD Create, Read, Update, Delete CURL Client URL 
 
-ELK    Elastic Search, Logstash, Kibana HTTP  HyperText Transfer Protocol  GUI     Graphical User Interface 
+- ELK    Elastic Search, Logstash, Kibana HTTP  HyperText Transfer Protocol  GUI     Graphical User Interface 
 
-JSON  JavaScript Object Notation 
+- JSON  JavaScript Object Notation 
 
-SQL     Structered Query Language 
+- SQL     Structered Query Language 
 
-ID        Identification 
+- ID        Identification 
 
 1. GİRİŞ 
 
